@@ -2,7 +2,7 @@
 
 1. Copy this template repository by clicking "Use this template"
 2. Commit to your repository to meet the goal set out below. (Evaluation will be based largely on meeting defined guidelines, reaching the expected result, and efficiency.)
-3. Share your completed repository with cris@7cups.com
+3. Share your completed repository.
 
 
 ## Guidelines
